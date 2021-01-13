@@ -67,3 +67,8 @@ spring:
 | postcode     | VARCHAR     |
 | phone_number | VARCHAR     |
 
+
+
+
+##### Reference
+https://1-7171771.tistory.com/83
